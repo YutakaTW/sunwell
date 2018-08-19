@@ -35,6 +35,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'jquery-turbolinks'
 gem 'figaro'
 gem 'passenger'
+gem 'ruby', '2.4.4'
 
 group :production do
   gem 'pg'
